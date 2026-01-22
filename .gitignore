@@ -1,0 +1,56 @@
+# CSV files
+*.csv
+
+# JavaScript files
+
+# CSS files
+*.css
+
+# Woff files
+*.woff
+
+# png files
+*.png   
+
+*.js
+
+# Quarto files
+*.qmd
+
+# HTML output files (typically generated from Quarto/notebooks)
+*.html
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Quarto specific
+/.quarto/
+_site/
+_book/
