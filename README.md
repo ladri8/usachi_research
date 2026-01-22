@@ -1,6 +1,6 @@
 # USACHI Research Project
 
-Clinical research data analysis project (CTSI 7435).
+Clinical research data analysis project.
 
 ## Project Structure
 
